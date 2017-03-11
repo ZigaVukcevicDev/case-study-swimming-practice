@@ -12,5 +12,7 @@
     "webpack": "1.x",
     "webpack-dev-server": "1.x"
   },
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
